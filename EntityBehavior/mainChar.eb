@@ -1,0 +1,3 @@
+canFeelPain = true
+canCollectCoins = true
+painThreshold = 0.2
